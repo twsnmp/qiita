@@ -1,14 +1,16 @@
 ---
-title: 苦手なPythonだけどGemini CLIと強力タッグ！血糖測定器「FreeStyle Precision Neo」のデータ可視化デスクトップアプリを開発し、GitHub Actionsでインストーラー自動ビルドまで実現した話
+title: >-
+  苦手なPythonだけどGemini CLIと強力タッグ！血糖測定器「FreeStyle Precision
+  Neo」のデータ可視化デスクトップアプリを開発し、GitHub Actionsでインストーラー自動ビルドまで実現した話
 tags:
   - Python
-  - pywebview
   - Gemini
+  - pywebview
   - GitHubActions
   - 血糖値
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-05-24T09:37:51+09:00'
+id: 7a35242cd3569996182a
 organization_url_name: null
 slide: false
 ignorePublish: false
