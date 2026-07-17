@@ -6,7 +6,6 @@ tags:
   - AI
   - 個人開発
   - Wails
-  - Svelte
 private: false
 updated_at: ''
 id: ''
