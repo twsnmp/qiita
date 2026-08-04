@@ -3,12 +3,12 @@ title: TWSNMP FKのAI連携機能（ノード・ログ解析・Syslogポーリ�
 tags:
   - TWSNMP
   - LLM
-  - Ollama
+  - ollama
   - ネットワーク監視
   - Go
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-08-05T03:50:28+09:00'
+id: 1dccf0d971b5e680d512
 organization_url_name: null
 slide: false
 ignorePublish: false
