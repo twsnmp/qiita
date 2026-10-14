@@ -22,7 +22,7 @@ Go言語でPKI入門（勝手に復刻版）シリーズの続編です。
 - [第1回：CA編](https://qiita.com/twsnmp/items/60ba568f0daca8bae915)
 - [第2回：CRL/OCSP編](https://qiita.com/twsnmp/items/0457d5b9ff91d037b202)
 - [第3回：ACME編](https://qiita.com/twsnmp/items/bfa2254031a4f2f6b17c)
-- [第4回：ACME拡張編（DNS-01・IPアドレス・端末構成証明）](https://qiita.com/twsnmp/items/pki_acme_extension)
+- [第4回：ACME拡張編（DNS-01・IPアドレス・端末構成証明）](https://qiita.com/twsnmp/items/cfe997182e5cb8a3913b)
 
 前回までの記事では、Webサーバーやエンドポイント端末で広く使われるACME（RFC 8555）プロトコルとその拡張を解説しました。
 
