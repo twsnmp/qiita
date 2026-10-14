@@ -5,10 +5,10 @@ tags:
   - pki
   - est
   - RFC7030
-  - ネットワーク
+  - Network
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-10-14T15:36:26+09:00'
+id: e0f3d67bf9a7ab09fb9b
 organization_url_name: null
 slide: false
 ignorePublish: false

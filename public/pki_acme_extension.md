@@ -5,9 +5,9 @@ tags:
   - pki
   - acme
   - ゼロトラスト
-  - セキュリティ
+  - Security
 private: false
-updated_at: '2026-10-14T15:20:01+09:00'
+updated_at: '2026-10-14T15:36:25+09:00'
 id: cfe997182e5cb8a3913b
 organization_url_name: null
 slide: false
